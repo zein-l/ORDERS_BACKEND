@@ -1,4 +1,4 @@
-# 🧾 OrdersAssessment
+# 🧾 Orders Assessment
 
 A lightweight full-stack Orders Management system demonstrating modern .NET 8 + React + Clean Architecture.
 
