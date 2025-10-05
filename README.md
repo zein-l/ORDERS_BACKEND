@@ -60,7 +60,6 @@ OrdersAssessment/
 
 ## 🧪 Testing
 ```bash
-cd OrdersAssessment
 dotnet test
 ```
 Includes sample unit tests for:
