@@ -1,0 +1,17 @@
+/* src/index.css  — Tailwind v4 entry point */
+@import "tailwindcss";
+
+/* Keep the page filling the viewport */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+/* Optional: small global tweaks that are plain CSS (no @apply) */
+body {
+  background-color: #0b0f14;   /* dark background */
+  color: #e5e7eb;              /* gray-200 text */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

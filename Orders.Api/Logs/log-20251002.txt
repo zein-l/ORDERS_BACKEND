@@ -1,0 +1,1048 @@
+2025-10-02 20:38:01.510 +03:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-10-02 20:38:01.759 +03:00 [INF] Now listening on: http://localhost:5238
+2025-10-02 20:38:01.767 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-02 20:38:01.769 +03:00 [INF] Hosting environment: Development
+2025-10-02 20:38:01.772 +03:00 [INF] Content root path: C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api
+2025-10-02 20:38:07.636 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/ - null null
+2025-10-02 20:38:07.702 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-10-02 20:38:07.706 +03:00 [INF] HTTP GET / responded 404 in 32.3462 ms
+2025-10-02 20:38:07.723 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/ - 404 0 null 89.2461ms
+2025-10-02 20:38:07.732 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5238/, Response status code: 404
+2025-10-02 20:41:36.769 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/ - null null
+2025-10-02 20:41:36.810 +03:00 [INF] HTTP GET / responded 404 in 7.6339 ms
+2025-10-02 20:41:36.815 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/ - 404 0 null 51.6152ms
+2025-10-02 20:41:36.821 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5238/, Response status code: 404
+2025-10-02 20:41:49.939 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger - null null
+2025-10-02 20:41:49.954 +03:00 [INF] HTTP GET /swagger responded 301 in 7.9382 ms
+2025-10-02 20:41:49.958 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger - 301 0 null 19.5097ms
+2025-10-02 20:41:49.965 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/index.html - null null
+2025-10-02 20:41:50.126 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 155.6229 ms
+2025-10-02 20:41:50.129 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/index.html - 200 null text/html;charset=utf-8 163.1418ms
+2025-10-02 20:41:50.166 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/swagger-ui.css - null null
+2025-10-02 20:41:50.167 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/index.css - null null
+2025-10-02 20:41:50.176 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/swagger-ui-standalone-preset.js - null null
+2025-10-02 20:41:50.176 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/swagger-ui-bundle.js - null null
+2025-10-02 20:41:50.177 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/index.js - null null
+2025-10-02 20:41:50.191 +03:00 [INF] HTTP GET /swagger/index.js responded 200 in 1.3329 ms
+2025-10-02 20:41:50.195 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/index.js - 200 null application/javascript;charset=utf-8 17.7614ms
+2025-10-02 20:41:50.227 +03:00 [INF] HTTP GET /swagger/index.css responded 200 in 51.2729 ms
+2025-10-02 20:41:50.227 +03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 56.5184 ms
+2025-10-02 20:41:50.230 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/index.css - 200 152 text/css 63.3177ms
+2025-10-02 20:41:50.234 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/swagger-ui.css - 200 23647 text/css 67.5503ms
+2025-10-02 20:41:50.242 +03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 61.4956 ms
+2025-10-02 20:41:50.243 +03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 57.2770 ms
+2025-10-02 20:41:50.250 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/swagger-ui-standalone-preset.js - 200 77352 text/javascript 74.1436ms
+2025-10-02 20:41:50.252 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/swagger-ui-bundle.js - 200 424767 text/javascript 75.549ms
+2025-10-02 20:41:50.450 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - null null
+2025-10-02 20:41:50.479 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/favicon-32x32.png - null null
+2025-10-02 20:41:50.485 +03:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 1.3275 ms
+2025-10-02 20:41:50.489 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/favicon-32x32.png - 200 628 image/png 9.6416ms
+2025-10-02 20:41:50.559 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 104.5624 ms
+2025-10-02 20:41:50.562 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 112.0886ms
+2025-10-02 20:59:45.118 +03:00 [INF] Application is shutting down...
+2025-10-02 21:05:20.656 +03:00 [INF] Executed DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+PRAGMA journal_mode = 'wal';
+2025-10-02 21:05:20.710 +03:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-10-02 21:05:20.718 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2025-10-02 21:05:20.726 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsLock" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK___EFMigrationsLock" PRIMARY KEY,
+    "Timestamp" TEXT NOT NULL
+);
+2025-10-02 21:05:20.732 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2025-10-02 18:05:20.7305163+00:00');
+SELECT changes();
+2025-10-02 21:05:20.784 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2025-10-02 21:05:20.796 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-10-02 21:05:20.801 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-10-02 21:05:20.812 +03:00 [INF] Applying migration '20251002180443_InitialCreate'.
+2025-10-02 21:05:20.827 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Users" (
+    "Id" TEXT NOT NULL CONSTRAINT "PK_Users" PRIMARY KEY,
+    "Email" TEXT NOT NULL,
+    "PasswordHash" TEXT NOT NULL,
+    "FullName" TEXT NULL,
+    "CreatedAtUtc" TEXT NOT NULL,
+    "UpdatedAtUtc" TEXT NULL
+);
+2025-10-02 21:05:20.833 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Orders" (
+    "Id" TEXT NOT NULL CONSTRAINT "PK_Orders" PRIMARY KEY,
+    "UserId" TEXT NOT NULL,
+    "Total" TEXT NOT NULL,
+    "Status" TEXT NOT NULL,
+    "CreatedAtUtc" TEXT NOT NULL,
+    "UpdatedAtUtc" TEXT NULL,
+    CONSTRAINT "FK_Orders_Users_UserId" FOREIGN KEY ("UserId") REFERENCES "Users" ("Id") ON DELETE CASCADE
+);
+2025-10-02 21:05:20.836 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "OrderItems" (
+    "Id" TEXT NOT NULL CONSTRAINT "PK_OrderItems" PRIMARY KEY,
+    "OrderId" TEXT NOT NULL,
+    "Name" TEXT NOT NULL,
+    "Quantity" INTEGER NOT NULL,
+    "UnitPrice" TEXT NOT NULL,
+    "CreatedAtUtc" TEXT NOT NULL,
+    "UpdatedAtUtc" TEXT NULL,
+    CONSTRAINT "FK_OrderItems_Orders_OrderId" FOREIGN KEY ("OrderId") REFERENCES "Orders" ("Id") ON DELETE CASCADE
+);
+2025-10-02 21:05:20.840 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_OrderItems_OrderId" ON "OrderItems" ("OrderId");
+2025-10-02 21:05:20.843 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_Orders_UserId_CreatedAtUtc" ON "Orders" ("UserId", "CreatedAtUtc");
+2025-10-02 21:05:20.846 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX "IX_Users_Email" ON "Users" ("Email");
+2025-10-02 21:05:20.849 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20251002180443_InitialCreate', '9.0.9');
+2025-10-02 21:05:20.858 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2025-10-02 21:05:45.962 +03:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-10-02 21:05:46.044 +03:00 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2025-10-02 21:05:46.065 +03:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2025-10-02 18:05:46.0542213+00:00');
+SELECT changes();
+2025-10-02 21:05:46.147 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2025-10-02 21:05:46.157 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-10-02 21:05:46.163 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-10-02 21:05:46.178 +03:00 [INF] No migrations were applied. The database is already up to date.
+2025-10-02 21:05:46.184 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2025-10-02 21:05:46.347 +03:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-10-02 21:05:46.476 +03:00 [INF] Now listening on: http://localhost:5238
+2025-10-02 21:05:46.481 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-02 21:05:46.484 +03:00 [INF] Hosting environment: Development
+2025-10-02 21:05:46.486 +03:00 [INF] Content root path: C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api
+2025-10-02 21:06:00.204 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/ - null null
+2025-10-02 21:06:00.275 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-10-02 21:06:00.279 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2025-10-02 21:06:00.297 +03:00 [INF] Executing RedirectResult, redirecting to /swagger.
+2025-10-02 21:06:00.299 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2025-10-02 21:06:00.305 +03:00 [INF] HTTP GET / responded 302 in 70.5637 ms
+2025-10-02 21:06:00.317 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/ - 302 0 null 114.5671ms
+2025-10-02 21:06:00.435 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - null null
+2025-10-02 21:06:00.551 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 108.3805 ms
+2025-10-02 21:06:00.556 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 121.0212ms
+2025-10-02 22:18:58.369 +03:00 [INF] Application is shutting down...
+2025-10-02 22:46:02.336 +03:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-10-02 22:46:02.412 +03:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2025-10-02 22:46:02.429 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2025-10-02 19:46:02.4223042+00:00');
+SELECT changes();
+2025-10-02 22:46:02.481 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2025-10-02 22:46:02.490 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-10-02 22:46:02.495 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-10-02 22:46:02.505 +03:00 [INF] No migrations were applied. The database is already up to date.
+2025-10-02 22:46:02.509 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2025-10-02 22:46:15.445 +03:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-10-02 22:46:15.533 +03:00 [INF] Executed DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2025-10-02 22:46:15.547 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2025-10-02 19:46:15.5426281+00:00');
+SELECT changes();
+2025-10-02 22:46:15.606 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2025-10-02 22:46:15.614 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-10-02 22:46:15.620 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-10-02 22:46:15.632 +03:00 [INF] No migrations were applied. The database is already up to date.
+2025-10-02 22:46:15.636 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2025-10-02 22:46:15.722 +03:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-10-02 22:46:15.829 +03:00 [INF] Now listening on: http://localhost:5238
+2025-10-02 22:46:15.834 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-02 22:46:15.837 +03:00 [INF] Hosting environment: Development
+2025-10-02 22:46:15.839 +03:00 [INF] Content root path: C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api
+2025-10-02 22:46:26.023 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/ - null null
+2025-10-02 22:46:26.081 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-10-02 22:46:26.085 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2025-10-02 22:46:26.091 +03:00 [INF] Executing RedirectResult, redirecting to /swagger.
+2025-10-02 22:46:26.094 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2025-10-02 22:46:26.096 +03:00 [INF] HTTP GET / responded 302 in 41.8008 ms
+2025-10-02 22:46:26.108 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/ - 302 0 null 87.2969ms
+2025-10-02 22:46:26.274 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - null null
+2025-10-02 22:46:26.342 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 63.8634 ms
+2025-10-02 22:46:26.346 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 71.8757ms
+2025-10-02 22:46:41.951 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - null null
+2025-10-02 22:46:41.960 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 2.5914 ms
+2025-10-02 22:46:41.964 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 13.0593ms
+2025-10-02 22:46:42.025 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/favicon.ico - null null
+2025-10-02 22:46:42.029 +03:00 [INF] HTTP GET /favicon.ico responded 404 in 0.3612 ms
+2025-10-02 22:46:42.033 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/favicon.ico - 404 0 null 8.0192ms
+2025-10-02 22:46:42.039 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5238/favicon.ico, Response status code: 404
+2025-10-02 22:46:46.919 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/ - null null
+2025-10-02 22:46:46.925 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2025-10-02 22:46:46.928 +03:00 [INF] Executing RedirectResult, redirecting to /swagger.
+2025-10-02 22:46:46.930 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2025-10-02 22:46:46.932 +03:00 [INF] HTTP GET / responded 302 in 7.2752 ms
+2025-10-02 22:46:46.937 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/ - 302 0 null 17.4293ms
+2025-10-02 22:46:47.082 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - null null
+2025-10-02 22:46:47.087 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 1.1382 ms
+2025-10-02 22:46:47.090 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.8842ms
+2025-10-02 22:58:20.548 +03:00 [INF] Application is shutting down...
+2025-10-02 22:58:49.736 +03:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-10-02 22:58:49.809 +03:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2025-10-02 22:58:49.824 +03:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2025-10-02 19:58:49.8172562+00:00');
+SELECT changes();
+2025-10-02 22:58:49.891 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2025-10-02 22:58:49.900 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-10-02 22:58:49.906 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-10-02 22:58:49.922 +03:00 [INF] No migrations were applied. The database is already up to date.
+2025-10-02 22:58:49.927 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2025-10-02 22:58:50.029 +03:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-10-02 22:58:50.134 +03:00 [INF] Now listening on: http://localhost:5238
+2025-10-02 22:58:50.138 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-02 22:58:50.140 +03:00 [INF] Hosting environment: Development
+2025-10-02 22:58:50.142 +03:00 [INF] Content root path: C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api
+2025-10-02 22:58:57.100 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/ - null null
+2025-10-02 22:58:57.168 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-10-02 22:58:57.171 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2025-10-02 22:58:57.177 +03:00 [INF] Executing RedirectResult, redirecting to /swagger.
+2025-10-02 22:58:57.179 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2025-10-02 22:58:57.181 +03:00 [INF] HTTP GET / responded 302 in 49.8061 ms
+2025-10-02 22:58:57.190 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/ - 302 0 null 91.5427ms
+2025-10-02 22:58:57.398 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - null null
+2025-10-02 22:58:57.492 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 85.7669 ms
+2025-10-02 22:58:57.497 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 98.24ms
+2025-10-02 22:59:13.126 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - null null
+2025-10-02 22:59:13.132 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 1.0043 ms
+2025-10-02 22:59:13.135 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.0662ms
+2025-10-02 22:59:51.926 +03:00 [INF] Application is shutting down...
+2025-10-02 23:00:20.973 +03:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-10-02 23:00:21.038 +03:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2025-10-02 23:00:21.053 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2025-10-02 20:00:21.0465701+00:00');
+SELECT changes();
+2025-10-02 23:00:21.110 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2025-10-02 23:00:21.119 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-10-02 23:00:21.127 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-10-02 23:00:21.138 +03:00 [INF] No migrations were applied. The database is already up to date.
+2025-10-02 23:00:21.142 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2025-10-02 23:00:21.327 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Users" AS "u")
+2025-10-02 23:00:21.459 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?' (Size = 18), @p3='?' (Size = 6), @p4='?' (Size = 17), @p5='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Users" ("Id", "CreatedAtUtc", "Email", "FullName", "PasswordHash", "UpdatedAtUtc")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-10-02 23:00:21.468 +03:00 [INF] Seeded user: "22659275-2243-4622-9407-a2fc9d730fb0" tester@example.com
+2025-10-02 23:00:21.663 +03:00 [INF] Now listening on: http://localhost:5238
+2025-10-02 23:00:21.667 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-02 23:00:21.669 +03:00 [INF] Hosting environment: Development
+2025-10-02 23:00:21.671 +03:00 [INF] Content root path: C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api
+2025-10-02 23:00:27.762 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/ - null null
+2025-10-02 23:00:27.818 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-10-02 23:00:27.822 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2025-10-02 23:00:27.827 +03:00 [INF] Executing RedirectResult, redirecting to /swagger.
+2025-10-02 23:00:27.829 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2025-10-02 23:00:27.834 +03:00 [INF] HTTP GET / responded 302 in 32.9061 ms
+2025-10-02 23:00:27.844 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/ - 302 0 null 84.9636ms
+2025-10-02 23:00:27.980 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - null null
+2025-10-02 23:00:28.077 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 90.9812 ms
+2025-10-02 23:00:28.080 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 99.6849ms
+2025-10-02 23:04:04.523 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders - application/json 54
+2025-10-02 23:04:04.588 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:04:04.718 +03:00 [INF] Route matched with {action = "Create", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] Create(Orders.Application.DTOs.CreateOrderRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:04:05.202 +03:00 [INF] Executed DbCommand (14ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "u"."Id", "u"."CreatedAtUtc", "u"."Email", "u"."FullName", "u"."PasswordHash", "u"."UpdatedAtUtc"
+FROM "Users" AS "u"
+WHERE "u"."Id" = @__id_0
+LIMIT 1
+2025-10-02 23:04:05.220 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.Create (Orders.Api) in 493.3441ms
+2025-10-02 23:04:05.224 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:04:05.227 +03:00 [ERR] HTTP POST /api/Orders responded 500 in 643.9839 ms
+System.InvalidOperationException: User not found.
+   at Orders.Application.Services.OrderService.CreateOrderAsync(CreateOrderRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\Services\OrderService.cs:line 30
+   at Orders.Api.Controllers.OrdersController.Create(CreateOrderRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api\Controllers\OrdersController.cs:line 39
+   at lambda_method88(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-10-02 23:04:05.427 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: User not found.
+   at Orders.Application.Services.OrderService.CreateOrderAsync(CreateOrderRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\Services\OrderService.cs:line 30
+   at Orders.Api.Controllers.OrdersController.Create(CreateOrderRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api\Controllers\OrdersController.cs:line 39
+   at lambda_method88(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-10-02 23:04:05.455 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders - 500 null text/plain; charset=utf-8 937.0772ms
+2025-10-02 23:04:53.243 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders - application/json 21
+2025-10-02 23:04:53.249 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:04:53.251 +03:00 [INF] Route matched with {action = "Create", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] Create(Orders.Application.DTOs.CreateOrderRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:04:53.286 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-10-02 23:04:53.357 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.Create (Orders.Api) in 102.3034ms
+2025-10-02 23:04:53.360 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:04:53.362 +03:00 [INF] HTTP POST /api/Orders responded 400 in 112.9880 ms
+2025-10-02 23:04:53.365 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders - 400 null application/problem+json; charset=utf-8 121.9572ms
+2025-10-02 23:05:22.714 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/api/users/3fa85f64-5717-4562-b3fc-2c963f66afa6/orders - null null
+2025-10-02 23:05:22.728 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api)'
+2025-10-02 23:05:22.740 +03:00 [INF] Route matched with {action = "GetByUser", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IReadOnlyList`1[Orders.Application.DTOs.OrderResponse]]] GetByUser(System.Guid, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:05:22.934 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM "Orders" AS "o"
+LEFT JOIN "OrderItems" AS "o0" ON "o"."Id" = "o0"."OrderId"
+WHERE "o"."UserId" = @__userId_0
+ORDER BY "o"."CreatedAtUtc" DESC, "o"."Id"
+2025-10-02 23:05:22.939 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Orders.Application.DTOs.OrderResponse, Orders.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-10-02 23:05:22.960 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api) in 215.7342ms
+2025-10-02 23:05:22.962 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api)'
+2025-10-02 23:05:22.964 +03:00 [INF] HTTP GET /api/users/3fa85f64-5717-4562-b3fc-2c963f66afa6/orders responded 200 in 242.5231 ms
+2025-10-02 23:05:22.968 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/api/users/3fa85f64-5717-4562-b3fc-2c963f66afa6/orders - 200 null application/json; charset=utf-8 254.2802ms
+2025-10-02 23:05:37.296 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6/items - application/json 57
+2025-10-02 23:05:37.301 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:05:37.307 +03:00 [INF] Route matched with {action = "AddItem", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] AddItem(System.Guid, Orders.Application.DTOs.AddItemRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:05:37.349 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-10-02 23:05:37.352 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.AddItem (Orders.Api) in 41.1533ms
+2025-10-02 23:05:37.355 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:05:37.357 +03:00 [INF] HTTP POST /api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6/items responded 400 in 56.8077 ms
+2025-10-02 23:05:37.360 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6/items - 400 null application/problem+json; charset=utf-8 64.4067ms
+2025-10-02 23:05:39.149 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6/items - application/json 57
+2025-10-02 23:05:39.155 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:05:39.158 +03:00 [INF] Route matched with {action = "AddItem", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] AddItem(System.Guid, Orders.Application.DTOs.AddItemRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:05:39.166 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-10-02 23:05:39.169 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.AddItem (Orders.Api) in 5.0595ms
+2025-10-02 23:05:39.171 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:05:39.174 +03:00 [INF] HTTP POST /api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6/items responded 400 in 18.3472 ms
+2025-10-02 23:05:39.177 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6/items - 400 null application/problem+json; charset=utf-8 27.0813ms
+2025-10-02 23:05:50.907 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/health - null null
+2025-10-02 23:05:50.911 +03:00 [INF] Executing endpoint 'HTTP: GET /health'
+2025-10-02 23:05:50.919 +03:00 [INF] Setting HTTP status code 200.
+2025-10-02 23:05:50.927 +03:00 [INF] Writing value of type '<>f__AnonymousType2`2' as Json.
+2025-10-02 23:05:50.934 +03:00 [INF] Executed endpoint 'HTTP: GET /health'
+2025-10-02 23:05:50.936 +03:00 [INF] HTTP GET /health responded 200 in 25.0508 ms
+2025-10-02 23:05:50.941 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/health - 200 null application/json; charset=utf-8 34.1976ms
+2025-10-02 23:07:33.432 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders - application/json 54
+2025-10-02 23:07:33.436 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:07:33.438 +03:00 [INF] Route matched with {action = "Create", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] Create(Orders.Application.DTOs.CreateOrderRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:07:33.448 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "u"."Id", "u"."CreatedAtUtc", "u"."Email", "u"."FullName", "u"."PasswordHash", "u"."UpdatedAtUtc"
+FROM "Users" AS "u"
+WHERE "u"."Id" = @__id_0
+LIMIT 1
+2025-10-02 23:07:33.531 +03:00 [INF] Executed DbCommand (7ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?' (Size = 5), @p3='?' (DbType = Decimal), @p4='?' (DbType = DateTime), @p5='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Orders" ("Id", "CreatedAtUtc", "Status", "Total", "UpdatedAtUtc", "UserId")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-10-02 23:07:33.540 +03:00 [INF] Executing CreatedAtActionResult, writing value of type 'Orders.Application.DTOs.OrderResponse'.
+2025-10-02 23:07:33.569 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.Create (Orders.Api) in 129.122ms
+2025-10-02 23:07:33.572 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:07:33.574 +03:00 [INF] HTTP POST /api/Orders responded 201 in 137.8266 ms
+2025-10-02 23:07:33.576 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders - 201 null application/json; charset=utf-8 144.5036ms
+2025-10-02 23:09:56.785 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders/22659275-2243-4622-9407-a2fc9d730fb0/items - application/json 58
+2025-10-02 23:09:56.791 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:09:56.794 +03:00 [INF] Route matched with {action = "AddItem", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] AddItem(System.Guid, Orders.Application.DTOs.AddItemRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:09:56.848 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:09:56.856 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-10-02 23:09:56.862 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.AddItem (Orders.Api) in 64.5709ms
+2025-10-02 23:09:56.866 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:09:56.868 +03:00 [INF] HTTP POST /api/Orders/22659275-2243-4622-9407-a2fc9d730fb0/items responded 404 in 76.8918 ms
+2025-10-02 23:09:56.871 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders/22659275-2243-4622-9407-a2fc9d730fb0/items - 404 null application/problem+json; charset=utf-8 86.108ms
+2025-10-02 23:09:58.764 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders/22659275-2243-4622-9407-a2fc9d730fb0/items - application/json 58
+2025-10-02 23:09:58.770 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:09:58.773 +03:00 [INF] Route matched with {action = "AddItem", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] AddItem(System.Guid, Orders.Application.DTOs.AddItemRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:09:58.779 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:09:58.784 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-10-02 23:09:58.787 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.AddItem (Orders.Api) in 11.5098ms
+2025-10-02 23:09:58.789 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:09:58.791 +03:00 [INF] HTTP POST /api/Orders/22659275-2243-4622-9407-a2fc9d730fb0/items responded 404 in 20.8947 ms
+2025-10-02 23:09:58.795 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders/22659275-2243-4622-9407-a2fc9d730fb0/items - 404 null application/problem+json; charset=utf-8 30.5703ms
+2025-10-02 23:10:23.763 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/api/Orders/22659275-2243-4622-9407-a2fc9d730fb0 - null null
+2025-10-02 23:10:23.768 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.GetById (Orders.Api)'
+2025-10-02 23:10:23.773 +03:00 [INF] Route matched with {action = "GetById", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] GetById(System.Guid, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:10:23.781 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:10:23.785 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-10-02 23:10:23.789 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.GetById (Orders.Api) in 11.694ms
+2025-10-02 23:10:23.792 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.GetById (Orders.Api)'
+2025-10-02 23:10:23.793 +03:00 [INF] HTTP GET /api/Orders/22659275-2243-4622-9407-a2fc9d730fb0 responded 404 in 25.9747 ms
+2025-10-02 23:10:23.796 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/api/Orders/22659275-2243-4622-9407-a2fc9d730fb0 - 404 null application/problem+json; charset=utf-8 32.4553ms
+2025-10-02 23:10:29.182 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders - application/json 54
+2025-10-02 23:10:29.187 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:10:29.189 +03:00 [INF] Route matched with {action = "Create", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] Create(Orders.Application.DTOs.CreateOrderRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:10:29.194 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "u"."Id", "u"."CreatedAtUtc", "u"."Email", "u"."FullName", "u"."PasswordHash", "u"."UpdatedAtUtc"
+FROM "Users" AS "u"
+WHERE "u"."Id" = @__id_0
+LIMIT 1
+2025-10-02 23:10:29.202 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?' (Size = 5), @p3='?' (DbType = Decimal), @p4='?' (DbType = DateTime), @p5='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Orders" ("Id", "CreatedAtUtc", "Status", "Total", "UpdatedAtUtc", "UserId")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-10-02 23:10:29.208 +03:00 [INF] Executing CreatedAtActionResult, writing value of type 'Orders.Application.DTOs.OrderResponse'.
+2025-10-02 23:10:29.211 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.Create (Orders.Api) in 19.615ms
+2025-10-02 23:10:29.213 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:10:29.215 +03:00 [INF] HTTP POST /api/Orders responded 201 in 27.7785 ms
+2025-10-02 23:10:29.218 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders - 201 null application/json; charset=utf-8 35.4427ms
+2025-10-02 23:10:51.328 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/api/Orders/22659275-2243-4622-9407-a2fc9d730fb0 - null null
+2025-10-02 23:10:51.332 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.GetById (Orders.Api)'
+2025-10-02 23:10:51.335 +03:00 [INF] Route matched with {action = "GetById", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] GetById(System.Guid, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:10:51.341 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:10:51.347 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-10-02 23:10:51.350 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.GetById (Orders.Api) in 12.0802ms
+2025-10-02 23:10:51.352 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.GetById (Orders.Api)'
+2025-10-02 23:10:51.353 +03:00 [INF] HTTP GET /api/Orders/22659275-2243-4622-9407-a2fc9d730fb0 responded 404 in 21.4760 ms
+2025-10-02 23:10:51.355 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/api/Orders/22659275-2243-4622-9407-a2fc9d730fb0 - 404 null application/problem+json; charset=utf-8 26.9559ms
+2025-10-02 23:11:28.063 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/api/Orders/b2bfe59c-f645-4a39-aaea-d7ecd26997cb - null null
+2025-10-02 23:11:28.068 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.GetById (Orders.Api)'
+2025-10-02 23:11:28.069 +03:00 [INF] Route matched with {action = "GetById", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] GetById(System.Guid, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:11:28.075 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:11:28.091 +03:00 [INF] Executing OkObjectResult, writing value of type 'Orders.Application.DTOs.OrderResponse'.
+2025-10-02 23:11:28.094 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.GetById (Orders.Api) in 21.786ms
+2025-10-02 23:11:28.096 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.GetById (Orders.Api)'
+2025-10-02 23:11:28.098 +03:00 [INF] HTTP GET /api/Orders/b2bfe59c-f645-4a39-aaea-d7ecd26997cb responded 200 in 29.7485 ms
+2025-10-02 23:11:28.101 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/api/Orders/b2bfe59c-f645-4a39-aaea-d7ecd26997cb - 200 null application/json; charset=utf-8 37.1995ms
+2025-10-02 23:11:46.530 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/api/users/b2bfe59c-f645-4a39-aaea-d7ecd26997cb/orders - null null
+2025-10-02 23:11:46.536 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api)'
+2025-10-02 23:11:46.538 +03:00 [INF] Route matched with {action = "GetByUser", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IReadOnlyList`1[Orders.Application.DTOs.OrderResponse]]] GetByUser(System.Guid, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:11:46.545 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM "Orders" AS "o"
+LEFT JOIN "OrderItems" AS "o0" ON "o"."Id" = "o0"."OrderId"
+WHERE "o"."UserId" = @__userId_0
+ORDER BY "o"."CreatedAtUtc" DESC, "o"."Id"
+2025-10-02 23:11:46.550 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Orders.Application.DTOs.OrderResponse, Orders.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-10-02 23:11:46.554 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api) in 11.8291ms
+2025-10-02 23:11:46.556 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api)'
+2025-10-02 23:11:46.559 +03:00 [INF] HTTP GET /api/users/b2bfe59c-f645-4a39-aaea-d7ecd26997cb/orders responded 200 in 23.0408 ms
+2025-10-02 23:11:46.562 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/api/users/b2bfe59c-f645-4a39-aaea-d7ecd26997cb/orders - 200 null application/json; charset=utf-8 31.7711ms
+2025-10-02 23:12:05.594 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/api/users/22659275-2243-4622-9407-a2fc9d730fb0/orders - null null
+2025-10-02 23:12:05.599 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api)'
+2025-10-02 23:12:05.602 +03:00 [INF] Route matched with {action = "GetByUser", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IReadOnlyList`1[Orders.Application.DTOs.OrderResponse]]] GetByUser(System.Guid, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:12:05.606 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM "Orders" AS "o"
+LEFT JOIN "OrderItems" AS "o0" ON "o"."Id" = "o0"."OrderId"
+WHERE "o"."UserId" = @__userId_0
+ORDER BY "o"."CreatedAtUtc" DESC, "o"."Id"
+2025-10-02 23:12:05.613 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Orders.Application.DTOs.OrderResponse, Orders.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-10-02 23:12:05.615 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api) in 11.0673ms
+2025-10-02 23:12:05.618 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api)'
+2025-10-02 23:12:05.620 +03:00 [INF] HTTP GET /api/users/22659275-2243-4622-9407-a2fc9d730fb0/orders responded 200 in 21.4605 ms
+2025-10-02 23:12:05.623 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/api/users/22659275-2243-4622-9407-a2fc9d730fb0/orders - 200 null application/json; charset=utf-8 29.6253ms
+2025-10-02 23:12:32.922 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders/b2bfe59c-f645-4a39-aaea-d7ecd26997cb/items - application/json 58
+2025-10-02 23:12:32.929 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:12:32.930 +03:00 [INF] Route matched with {action = "AddItem", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] AddItem(System.Guid, Orders.Application.DTOs.AddItemRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:12:32.938 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:12:33.001 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@p6='?' (DbType = Guid), @p0='?' (DbType = DateTime), @p1='?' (Size = 8), @p2='?' (DbType = Guid), @p3='?' (DbType = Int32), @p4='?' (DbType = Decimal), @p5='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+UPDATE "OrderItems" SET "CreatedAtUtc" = @p0, "Name" = @p1, "OrderId" = @p2, "Quantity" = @p3, "UnitPrice" = @p4, "UpdatedAtUtc" = @p5
+WHERE "Id" = @p6
+RETURNING 1;
+2025-10-02 23:12:33.021 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.AddItem (Orders.Api) in 87.2622ms
+2025-10-02 23:12:33.025 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:12:33.027 +03:00 [ERR] HTTP POST /api/Orders/b2bfe59c-f645-4a39-aaea-d7ecd26997cb/items responded 500 in 98.5443 ms
+Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: The database operation was expected to affect 1 row(s), but actually affected 0 row(s); data may have been modified or deleted since entities were loaded. See https://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyExceptionAsync(RelationalDataReader reader, Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Orders.Application.Services.OrderService.AddItemAsync(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\Services\OrderService.cs:line 60
+   at Orders.Api.Controllers.OrdersController.AddItem(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api\Controllers\OrdersController.cs:line 71
+   at lambda_method164(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-10-02 23:12:33.050 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: The database operation was expected to affect 1 row(s), but actually affected 0 row(s); data may have been modified or deleted since entities were loaded. See https://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyExceptionAsync(RelationalDataReader reader, Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Orders.Application.Services.OrderService.AddItemAsync(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\Services\OrderService.cs:line 60
+   at Orders.Api.Controllers.OrdersController.AddItem(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api\Controllers\OrdersController.cs:line 71
+   at lambda_method164(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-10-02 23:12:33.067 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders/b2bfe59c-f645-4a39-aaea-d7ecd26997cb/items - 500 null text/plain; charset=utf-8 145.0244ms
+2025-10-02 23:20:37.807 +03:00 [INF] Application is shutting down...
+2025-10-02 23:21:08.404 +03:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-10-02 23:21:08.474 +03:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2025-10-02 23:21:08.491 +03:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2025-10-02 20:21:08.482315+00:00');
+SELECT changes();
+2025-10-02 23:21:08.553 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2025-10-02 23:21:08.564 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-10-02 23:21:08.570 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-10-02 23:21:08.588 +03:00 [INF] No migrations were applied. The database is already up to date.
+2025-10-02 23:21:08.592 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2025-10-02 23:21:08.802 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Users" AS "u")
+2025-10-02 23:21:09.002 +03:00 [INF] Now listening on: http://localhost:5238
+2025-10-02 23:21:09.007 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-02 23:21:09.008 +03:00 [INF] Hosting environment: Development
+2025-10-02 23:21:09.010 +03:00 [INF] Content root path: C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api
+2025-10-02 23:21:17.120 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/ - null null
+2025-10-02 23:21:17.179 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-10-02 23:21:17.183 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2025-10-02 23:21:17.188 +03:00 [INF] Executing RedirectResult, redirecting to /swagger.
+2025-10-02 23:21:17.191 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2025-10-02 23:21:17.194 +03:00 [INF] HTTP GET / responded 302 in 35.4580 ms
+2025-10-02 23:21:17.205 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/ - 302 0 null 87.1519ms
+2025-10-02 23:21:17.351 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - null null
+2025-10-02 23:21:17.482 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 124.5366 ms
+2025-10-02 23:21:17.486 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 135.5238ms
+2025-10-02 23:21:58.536 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6/items - application/json 58
+2025-10-02 23:21:58.544 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:21:58.584 +03:00 [INF] Route matched with {action = "AddItem", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] AddItem(System.Guid, Orders.Application.DTOs.AddItemRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:21:58.900 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:21:58.916 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-10-02 23:21:58.964 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.AddItem (Orders.Api) in 372.8211ms
+2025-10-02 23:21:58.967 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:21:58.969 +03:00 [INF] HTTP POST /api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6/items responded 404 in 424.9980 ms
+2025-10-02 23:21:58.975 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6/items - 404 null application/problem+json; charset=utf-8 438.4109ms
+2025-10-02 23:37:40.973 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders - application/json 54
+2025-10-02 23:37:41.046 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:37:41.199 +03:00 [INF] Route matched with {action = "Create", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] Create(Orders.Application.DTOs.CreateOrderRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:37:41.573 +03:00 [INF] Executed DbCommand (8ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "u"."Id", "u"."CreatedAtUtc", "u"."Email", "u"."FullName", "u"."PasswordHash", "u"."UpdatedAtUtc"
+FROM "Users" AS "u"
+WHERE "u"."Id" = @__id_0
+LIMIT 1
+2025-10-02 23:37:41.595 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.Create (Orders.Api) in 391.4459ms
+2025-10-02 23:37:41.602 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:37:41.606 +03:00 [ERR] HTTP POST /api/Orders responded 500 in 567.5448 ms
+System.InvalidOperationException: User not found.
+   at Orders.Application.Services.OrderService.CreateOrderAsync(CreateOrderRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\Services\OrderService.cs:line 30
+   at Orders.Api.Controllers.OrdersController.Create(CreateOrderRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api\Controllers\OrdersController.cs:line 39
+   at lambda_method71(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-10-02 23:37:41.731 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: User not found.
+   at Orders.Application.Services.OrderService.CreateOrderAsync(CreateOrderRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\Services\OrderService.cs:line 30
+   at Orders.Api.Controllers.OrdersController.Create(CreateOrderRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api\Controllers\OrdersController.cs:line 39
+   at lambda_method71(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-10-02 23:37:41.781 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders - 500 null text/plain; charset=utf-8 813.4531ms
+2025-10-02 23:38:43.559 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6 - null null
+2025-10-02 23:38:43.576 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.GetById (Orders.Api)'
+2025-10-02 23:38:43.586 +03:00 [INF] Route matched with {action = "GetById", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] GetById(System.Guid, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:38:43.605 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:38:43.616 +03:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-10-02 23:38:43.622 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.GetById (Orders.Api) in 33.075ms
+2025-10-02 23:38:43.625 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.GetById (Orders.Api)'
+2025-10-02 23:38:43.627 +03:00 [INF] HTTP GET /api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6 responded 404 in 61.8527 ms
+2025-10-02 23:38:43.630 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/api/Orders/3fa85f64-5717-4562-b3fc-2c963f66afa6 - 404 null application/problem+json; charset=utf-8 71.424ms
+2025-10-02 23:40:51.786 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders - application/json 54
+2025-10-02 23:40:51.803 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:40:51.815 +03:00 [INF] Route matched with {action = "Create", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] Create(Orders.Application.DTOs.CreateOrderRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:40:51.868 +03:00 [INF] Executed DbCommand (7ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "u"."Id", "u"."CreatedAtUtc", "u"."Email", "u"."FullName", "u"."PasswordHash", "u"."UpdatedAtUtc"
+FROM "Users" AS "u"
+WHERE "u"."Id" = @__id_0
+LIMIT 1
+2025-10-02 23:40:52.217 +03:00 [INF] Executed DbCommand (9ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?' (Size = 5), @p3='?' (DbType = Decimal), @p4='?' (DbType = DateTime), @p5='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Orders" ("Id", "CreatedAtUtc", "Status", "Total", "UpdatedAtUtc", "UserId")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-10-02 23:40:52.237 +03:00 [INF] Executing CreatedAtActionResult, writing value of type 'Orders.Application.DTOs.OrderResponse'.
+2025-10-02 23:40:52.307 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.Create (Orders.Api) in 488.8503ms
+2025-10-02 23:40:52.310 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:40:52.312 +03:00 [INF] HTTP POST /api/Orders responded 201 in 510.5589 ms
+2025-10-02 23:40:52.316 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders - 201 null application/json; charset=utf-8 531.1168ms
+2025-10-02 23:44:53.762 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders - application/json 54
+2025-10-02 23:44:53.786 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:44:53.797 +03:00 [INF] Route matched with {action = "Create", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] Create(Orders.Application.DTOs.CreateOrderRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:44:53.863 +03:00 [INF] Executed DbCommand (9ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "u"."Id", "u"."CreatedAtUtc", "u"."Email", "u"."FullName", "u"."PasswordHash", "u"."UpdatedAtUtc"
+FROM "Users" AS "u"
+WHERE "u"."Id" = @__id_0
+LIMIT 1
+2025-10-02 23:44:53.897 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = DateTime), @p2='?' (Size = 5), @p3='?' (DbType = Decimal), @p4='?' (DbType = DateTime), @p5='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Orders" ("Id", "CreatedAtUtc", "Status", "Total", "UpdatedAtUtc", "UserId")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2025-10-02 23:44:53.904 +03:00 [INF] Executing CreatedAtActionResult, writing value of type 'Orders.Application.DTOs.OrderResponse'.
+2025-10-02 23:44:53.918 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.Create (Orders.Api) in 116.5611ms
+2025-10-02 23:44:53.921 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.Create (Orders.Api)'
+2025-10-02 23:44:53.923 +03:00 [INF] HTTP POST /api/Orders responded 201 in 139.2831 ms
+2025-10-02 23:44:53.927 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders - 201 null application/json; charset=utf-8 167.6598ms
+2025-10-02 23:45:12.402 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/api/Orders/154b4423-ae5c-48ce-882f-c67e32ae2848 - null null
+2025-10-02 23:45:12.415 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.GetById (Orders.Api)'
+2025-10-02 23:45:12.417 +03:00 [INF] Route matched with {action = "GetById", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] GetById(System.Guid, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:45:12.430 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:45:12.463 +03:00 [INF] Executing OkObjectResult, writing value of type 'Orders.Application.DTOs.OrderResponse'.
+2025-10-02 23:45:12.465 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.GetById (Orders.Api) in 44.5165ms
+2025-10-02 23:45:12.468 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.GetById (Orders.Api)'
+2025-10-02 23:45:12.470 +03:00 [INF] HTTP GET /api/Orders/154b4423-ae5c-48ce-882f-c67e32ae2848 responded 200 in 61.8081 ms
+2025-10-02 23:45:12.474 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/api/Orders/154b4423-ae5c-48ce-882f-c67e32ae2848 - 200 null application/json; charset=utf-8 73.6363ms
+2025-10-02 23:45:33.575 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5238/api/users/22659275-2243-4622-9407-a2fc9d730fb0/orders - null null
+2025-10-02 23:45:33.583 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api)'
+2025-10-02 23:45:33.622 +03:00 [INF] Route matched with {action = "GetByUser", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IReadOnlyList`1[Orders.Application.DTOs.OrderResponse]]] GetByUser(System.Guid, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:45:33.731 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM "Orders" AS "o"
+LEFT JOIN "OrderItems" AS "o0" ON "o"."Id" = "o0"."OrderId"
+WHERE "o"."UserId" = @__userId_0
+ORDER BY "o"."CreatedAtUtc" DESC, "o"."Id"
+2025-10-02 23:45:33.741 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Orders.Application.DTOs.OrderResponse, Orders.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-10-02 23:45:33.753 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api) in 126.2444ms
+2025-10-02 23:45:33.755 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.GetByUser (Orders.Api)'
+2025-10-02 23:45:33.757 +03:00 [INF] HTTP GET /api/users/22659275-2243-4622-9407-a2fc9d730fb0/orders responded 200 in 174.4645 ms
+2025-10-02 23:45:33.762 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5238/api/users/22659275-2243-4622-9407-a2fc9d730fb0/orders - 200 null application/json; charset=utf-8 185.4339ms
+2025-10-02 23:46:22.410 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders/154b4423-ae5c-48ce-882f-c67e32ae2848/items - application/json 58
+2025-10-02 23:46:22.415 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:46:22.418 +03:00 [INF] Route matched with {action = "AddItem", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] AddItem(System.Guid, Orders.Application.DTOs.AddItemRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:46:22.427 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:46:22.523 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[@p6='?' (DbType = Guid), @p0='?' (DbType = DateTime), @p1='?' (Size = 8), @p2='?' (DbType = Guid), @p3='?' (DbType = Int32), @p4='?' (DbType = Decimal), @p5='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+UPDATE "OrderItems" SET "CreatedAtUtc" = @p0, "Name" = @p1, "OrderId" = @p2, "Quantity" = @p3, "UnitPrice" = @p4, "UpdatedAtUtc" = @p5
+WHERE "Id" = @p6
+RETURNING 1;
+2025-10-02 23:46:22.548 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.AddItem (Orders.Api) in 127.2266ms
+2025-10-02 23:46:22.553 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:46:22.555 +03:00 [ERR] HTTP POST /api/Orders/154b4423-ae5c-48ce-882f-c67e32ae2848/items responded 500 in 139.3089 ms
+Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: The database operation was expected to affect 1 row(s), but actually affected 0 row(s); data may have been modified or deleted since entities were loaded. See https://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyExceptionAsync(RelationalDataReader reader, Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Orders.Application.Services.OrderService.AddItemAsync(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\Services\OrderService.cs:line 62
+   at Orders.Api.Controllers.OrdersController.AddItem(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api\Controllers\OrdersController.cs:line 71
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-10-02 23:46:22.595 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: The database operation was expected to affect 1 row(s), but actually affected 0 row(s); data may have been modified or deleted since entities were loaded. See https://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyExceptionAsync(RelationalDataReader reader, Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Orders.Application.Services.OrderService.AddItemAsync(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\Services\OrderService.cs:line 62
+   at Orders.Api.Controllers.OrdersController.AddItem(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api\Controllers\OrdersController.cs:line 71
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-10-02 23:46:22.623 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders/154b4423-ae5c-48ce-882f-c67e32ae2848/items - 500 null text/plain; charset=utf-8 212.9673ms
+2025-10-02 23:46:54.159 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5238/api/Orders/050dd69e-84a2-4c80-927b-078d9b674495/items - application/json 58
+2025-10-02 23:46:54.164 +03:00 [INF] Executing endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:46:54.166 +03:00 [INF] Route matched with {action = "AddItem", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Orders.Application.DTOs.OrderResponse]] AddItem(System.Guid, Orders.Application.DTOs.AddItemRequest, System.Threading.CancellationToken) on controller Orders.Api.Controllers.OrdersController (Orders.Api).
+2025-10-02 23:46:54.172 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "o1"."Id", "o1"."CreatedAtUtc", "o1"."Status", "o1"."Total", "o1"."UpdatedAtUtc", "o1"."UserId", "o0"."Id", "o0"."CreatedAtUtc", "o0"."Name", "o0"."OrderId", "o0"."Quantity", "o0"."UnitPrice", "o0"."UpdatedAtUtc"
+FROM (
+    SELECT "o"."Id", "o"."CreatedAtUtc", "o"."Status", "o"."Total", "o"."UpdatedAtUtc", "o"."UserId"
+    FROM "Orders" AS "o"
+    WHERE "o"."Id" = @__id_0
+    LIMIT 1
+) AS "o1"
+LEFT JOIN "OrderItems" AS "o0" ON "o1"."Id" = "o0"."OrderId"
+ORDER BY "o1"."Id"
+2025-10-02 23:46:54.180 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@p6='?' (DbType = Guid), @p0='?' (DbType = DateTime), @p1='?' (Size = 8), @p2='?' (DbType = Guid), @p3='?' (DbType = Int32), @p4='?' (DbType = Decimal), @p5='?' (DbType = DateTime)], CommandType='"Text"', CommandTimeout='30']
+UPDATE "OrderItems" SET "CreatedAtUtc" = @p0, "Name" = @p1, "OrderId" = @p2, "Quantity" = @p3, "UnitPrice" = @p4, "UpdatedAtUtc" = @p5
+WHERE "Id" = @p6
+RETURNING 1;
+2025-10-02 23:46:54.186 +03:00 [INF] Executed action Orders.Api.Controllers.OrdersController.AddItem (Orders.Api) in 15.6791ms
+2025-10-02 23:46:54.189 +03:00 [INF] Executed endpoint 'Orders.Api.Controllers.OrdersController.AddItem (Orders.Api)'
+2025-10-02 23:46:54.191 +03:00 [ERR] HTTP POST /api/Orders/050dd69e-84a2-4c80-927b-078d9b674495/items responded 500 in 27.2133 ms
+Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: The database operation was expected to affect 1 row(s), but actually affected 0 row(s); data may have been modified or deleted since entities were loaded. See https://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyExceptionAsync(RelationalDataReader reader, Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Orders.Application.Services.OrderService.AddItemAsync(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\Services\OrderService.cs:line 62
+   at Orders.Api.Controllers.OrdersController.AddItem(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api\Controllers\OrdersController.cs:line 71
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-10-02 23:46:54.208 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: The database operation was expected to affect 1 row(s), but actually affected 0 row(s); data may have been modified or deleted since entities were loaded. See https://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyExceptionAsync(RelationalDataReader reader, Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithRowsAffectedOnlyAsync(Int32 commandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Orders.Application.Services.OrderService.AddItemAsync(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\Services\OrderService.cs:line 62
+   at Orders.Api.Controllers.OrdersController.AddItem(Guid orderId, AddItemRequest req, CancellationToken ct) in C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api\Controllers\OrdersController.cs:line 71
+   at lambda_method13(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-10-02 23:46:54.230 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5238/api/Orders/050dd69e-84a2-4c80-927b-078d9b674495/items - 500 null text/plain; charset=utf-8 70.7416ms
+2025-10-02 23:53:18.652 +03:00 [INF] Application is shutting down...
+2025-10-02 23:53:57.147 +03:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-10-02 23:53:57.223 +03:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2025-10-02 23:53:57.245 +03:00 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2025-10-02 20:53:57.2323737+00:00');
+SELECT changes();
+2025-10-02 23:53:57.307 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2025-10-02 23:53:57.317 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-10-02 23:53:57.322 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-10-02 23:53:57.331 +03:00 [INF] No migrations were applied. The database is already up to date.
+2025-10-02 23:53:57.336 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2025-10-02 23:53:57.537 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Users" AS "u")
+2025-10-02 23:53:57.774 +03:00 [INF] Now listening on: http://localhost:5238
+2025-10-02 23:53:57.778 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-02 23:53:57.780 +03:00 [INF] Hosting environment: Development
+2025-10-02 23:53:57.782 +03:00 [INF] Content root path: C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api
+2025-10-02 23:56:22.497 +03:00 [INF] Application is shutting down...
+2025-10-02 23:56:37.025 +03:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-10-02 23:56:37.099 +03:00 [INF] Executed DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2025-10-02 23:56:37.112 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2025-10-02 20:56:37.1077251+00:00');
+SELECT changes();
+2025-10-02 23:56:37.171 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2025-10-02 23:56:37.179 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2025-10-02 23:56:37.185 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-10-02 23:56:37.196 +03:00 [INF] No migrations were applied. The database is already up to date.
+2025-10-02 23:56:37.200 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2025-10-02 23:56:37.394 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Users" AS "u")
+2025-10-02 23:56:37.571 +03:00 [INF] Now listening on: http://localhost:5238
+2025-10-02 23:56:37.575 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-02 23:56:37.577 +03:00 [INF] Hosting environment: Development
+2025-10-02 23:56:37.578 +03:00 [INF] Content root path: C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Api
