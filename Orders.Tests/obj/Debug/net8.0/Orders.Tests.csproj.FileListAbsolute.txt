@@ -153,3 +153,4 @@ C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Tests\obj\De
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Tests\obj\Debug\net8.0\Orders.Tests.pdb
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Tests\obj\Debug\net8.0\Orders.Tests.genruntimeconfig.cache
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Tests\obj\Debug\net8.0\ref\Orders.Tests.dll
+C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Tests\obj\Debug\net8.0\Orders.Tests.sourcelink.json

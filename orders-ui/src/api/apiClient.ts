@@ -30,16 +30,22 @@ export function setStoredUser(user: StoredUser | null): void {
   else localStorage.removeItem(USER_KEY);
 }
 
+// Attach token
 api.interceptors.request.use((config) => {
   const token = getStoredToken();
   if (token) config.headers.Authorization = `Bearer ${token}`;
   return config;
 });
 
+// Handle 401s, but **skip** auth endpoints so toasts can show their errors
 api.interceptors.response.use(
   (r) => r,
   (err) => {
-    if (err?.response?.status === 401) {
+    const response = err?.response;
+    const url: string | undefined = err?.config?.url;
+    const isAuthCall = url?.startsWith("/api/auth/"); // /api/auth/login or /api/auth/register
+
+    if (response?.status === 401 && !isAuthCall) {
       setStoredToken(null);
       setStoredUser(null);
       if (location.pathname !== "/login") location.href = "/login";

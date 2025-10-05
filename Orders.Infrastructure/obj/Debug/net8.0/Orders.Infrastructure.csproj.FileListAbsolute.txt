@@ -17,3 +17,4 @@ C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Infrastructu
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.pdb
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.genruntimeconfig.cache
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Infrastructure\obj\Debug\net8.0\ref\Orders.Infrastructure.dll
+C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.sourcelink.json

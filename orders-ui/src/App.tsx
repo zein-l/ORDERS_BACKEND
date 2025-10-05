@@ -1,50 +1,55 @@
-import type { FC, PropsWithChildren } from "react";
+import type { JSX } from "react";
 import { Routes, Route, Navigate } from "react-router-dom";
+import { Toaster } from "sonner";
 
-import Header from "./components/Header";
 import { useAuth } from "./features/auth/AuthContext";
-
+import Header from "./components/Header";
 import LoginPage from "./features/auth/LoginPage";
 import RegisterPage from "./features/auth/RegisterPage";
 import OrdersPage from "./features/orders/OrdersPage";
 
-const Protected: FC<PropsWithChildren> = ({ children }) => {
+// Guard for private routes
+function ProtectedRoute({ children }: { children: JSX.Element }) {
   const { token } = useAuth();
-  if (!token) return <Navigate to="/login" replace />;
-  return <>{children}</>;
-};
+  return token ? children : <Navigate to="/login" replace />;
+}
 
 export default function App() {
   return (
-    <div className="min-h-dvh bg-[#0b0f14] text-white/90">
+    <div className="min-h-full bg-[#0b0f14] text-gray-200">
       <Header />
 
-      <main className="mx-auto max-w-6xl px-4 py-8">
+      <main className="mx-auto max-w-5xl px-4 py-8">
         <Routes>
-          {/* default: send users to /orders if signed in, otherwise /login */}
-          <Route path="/" element={<HomeRedirect />} />
+          {/* Default: send logged in users to /orders, others to /login */}
+          <Route path="/" element={<RedirectHome />} />
 
-          <Route
-            path="/orders"
-            element={
-              <Protected>
-                <OrdersPage />
-              </Protected>
-            }
-          />
-
+          {/* Public */}
           <Route path="/login" element={<LoginPage />} />
           <Route path="/register" element={<RegisterPage />} />
 
-          {/* catch-all */}
+          {/* Private */}
+          <Route
+            path="/orders"
+            element={
+              <ProtectedRoute>
+                <OrdersPage />
+              </ProtectedRoute>
+            }
+          />
+
+          {/* Fallback */}
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </main>
+
+      {/* Toasts mounted once */}
+      <Toaster richColors closeButton />
     </div>
   );
 }
 
-function HomeRedirect() {
+function RedirectHome() {
   const { token } = useAuth();
   return <Navigate to={token ? "/orders" : "/login"} replace />;
 }

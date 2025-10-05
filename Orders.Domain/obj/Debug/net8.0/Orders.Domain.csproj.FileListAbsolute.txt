@@ -9,3 +9,4 @@ C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Domain\obj\D
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Domain\obj\Debug\net8.0\refint\Orders.Domain.dll
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Domain\obj\Debug\net8.0\Orders.Domain.pdb
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Domain\obj\Debug\net8.0\ref\Orders.Domain.dll
+C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Domain\obj\Debug\net8.0\Orders.Domain.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\obj\Debug\net8.0\refint\Orders.Application.dll
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\obj\Debug\net8.0\Orders.Application.pdb
 C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\obj\Debug\net8.0\ref\Orders.Application.dll
+C:\Users\Zeink\OneDrive\Desktop\backendtest\OrdersAssessment\Orders.Application\obj\Debug\net8.0\Orders.Application.sourcelink.json
